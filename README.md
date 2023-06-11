@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi 👋, I'm Daniel Awde</h1>
 <h3 align="center">My name is Daniel Awde, and I am a game developer and designer with over 5 years of experience in the industry. My passion for creating engaging and immersive experiences has led me to develop several successful projects, including Mingo AR Classroom, an educational app that gamifies the learning experience for teens</h3>
 
